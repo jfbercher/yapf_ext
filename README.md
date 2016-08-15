@@ -8,7 +8,19 @@ Syntax shall be correct. The extension will point basic syntax errors, see demo.
 ![](demo.gif)
 
 
-Of course, this extension is *not* language agnostic... However, this first attempt may be the basis for a more general "code prettyfier" extension. 
+Of course, this extension is *not* language agnostic... However, this first attempt may be the basis for a more general "code prettyfier" extension.
+
+Installation
+------------
+
+If you use [jupyter-contrib-nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions), proceed as usual. 
+
+Otherwise, you can still install/try the extension from my personal repo, using
+```
+jupyter nbextension install https://github.com/jfbercher/yapf_ext/archive/master.zip --user
+jupyter nbextension enable yapf_ext-master/yapf_ext
+```
+
 
 History: 
 ---------
