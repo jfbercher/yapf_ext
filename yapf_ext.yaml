@@ -1,7 +1,7 @@
 Type: IPython Notebook Extension
 Name: YAPF Python formatter
 Description: use YAPF to reformat Python code cells
-Link: yapf_ext.md
+Link: README.md
 Main: yapf_ext.js
 Compatibility: Jupyter (4.x) 
 Parameters:
