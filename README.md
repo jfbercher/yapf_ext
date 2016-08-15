@@ -6,6 +6,8 @@ Then the extension provides
 for reformatting the current code-cell. 
 Syntax shall be correct. The extension will point basic syntax errors, see demo. 
 ![](demo.gif)
+
+
 Of course, this extension is *not* language agnostic... However, this first attempt may be the basis for a more general "code prettyfier" extension. 
 
 History: 
